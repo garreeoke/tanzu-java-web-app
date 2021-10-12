@@ -13,6 +13,6 @@ public class HelloController {
 	
 	@RequestMapping(value = "/tanzu")
 	public String index2() {
-		return "Hello from Tanzu";
+		return "Hello from Tanzu Application Platform";
 	}
 }
