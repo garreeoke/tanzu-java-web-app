@@ -11,8 +11,4 @@ public class HelloController {
 		return "Greetings from Tanzu-101";
 	}
 
-	@RequestMapping(value = "/blarg")
-	public String blarg() {
-		return "Greetings from blarg";
-	}
 }
