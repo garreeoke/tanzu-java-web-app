@@ -12,7 +12,7 @@ public class HelloController {
 	}
 
 	@RequestMapping(value = "/blarg")
-	public String index() {
+	public String blarg() {
 		return "Greetings from blarg";
 	}
 }
