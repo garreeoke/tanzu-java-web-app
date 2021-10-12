@@ -11,6 +11,6 @@ spec:
       value: gcr.io/taaron-1/tanzu-java-web-app
   source:
     git:
-      url: https://github.com/sample-accelerators/tanzu-java-web-app
+      url: https://github.com/garreeoke/tanzu-java-web-app
       ref:
         branch: main
